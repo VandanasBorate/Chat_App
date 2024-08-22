@@ -28,8 +28,8 @@ This project involves creating a simple chat application using Python and WebSoc
 
   
 
--   Code File:  server.py
-    
+**-   Code File:  server.py
+**    
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXclbNga6tlAVlqGv_ELLoxB6H5vjic_dnaiX-vo0xpsrGIOn0jOuFecwWjcszAcbjr_my-z7oMPM-a6s8y2sSoPFwg73GVemA3m3XUW1QuNO8_ax5zCKrZPTamQPZyW3Jae_hSWmgugaWoQtm-_rsmbuCid?key=o80k732yts8IGZfP_LeX5A)
 
