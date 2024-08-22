@@ -28,8 +28,8 @@ This project involves creating a simple chat application using Python and WebSoc
 
   
 
-**-   Code File:  server.py
-**    
+-   **Code File:  server.py**
+    
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXclbNga6tlAVlqGv_ELLoxB6H5vjic_dnaiX-vo0xpsrGIOn0jOuFecwWjcszAcbjr_my-z7oMPM-a6s8y2sSoPFwg73GVemA3m3XUW1QuNO8_ax5zCKrZPTamQPZyW3Jae_hSWmgugaWoQtm-_rsmbuCid?key=o80k732yts8IGZfP_LeX5A)
 
@@ -39,9 +39,9 @@ This project involves creating a simple chat application using Python and WebSoc
     
 
 #####   
-2. Client-Side Implementation
+**2. Client-Side Implementation**
 
--   File:  client.py
+**-   File:  client.py**
     
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXft_zYRsntWxyAkdbn4UHYxWQ6FDuO4WE1rFPWIUta-rKLJFd--2iZB-Pcwxpl_F30eCV6sEuhoG4MZWEyl3NIEgWtUegVLjKdRDWqImzCRUIUrl7_xpieWOhhw0NCdBiXKBeYsI5uchpr3P8U6oJus7d0?key=o80k732yts8IGZfP_LeX5A)
@@ -69,7 +69,7 @@ This project involves creating a simple chat application using Python and WebSoc
 -   Ensure the server is running before any clients attempt to connect.
     
 
-Run server.py:
+**Run server.py:**
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo20CtLMzXi5878PADt5dhknHe7-Zf6ShOZh5qwBksultPlV3CegKA3paYfyt5GkXEhg3EGxHmjYiByJ6fLlYiYBlpnp-H7dINJ1tQpiRXTQNcLLxgMxo_I3YKRCsAPMIlRxD3fLSAGRzJdTYgQP0gNig?key=o80k732yts8IGZfP_LeX5A)
 
