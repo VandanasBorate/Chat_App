@@ -4,7 +4,7 @@ This project involves creating a simple chat application using Python and WebSoc
 
 #### Technology Stack:
 
--   Programming Language:
+-   Programming Language:python
     
 -   Socket Library:  Socket (Python library), websockets (Python library),
     
